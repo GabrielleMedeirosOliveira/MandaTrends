@@ -157,3 +157,19 @@ article .subNoticias .noticia2 .barraNoticia{
     width: 55%;
     background-image: linear-gradient(to right, #75c7ce, #3ab38a);
 }
+
+/*Estilização do Footer, sem responsividade*/
+
+footer{
+    margin-top: 40px;
+    width: 100%;
+}
+footer .footerMandarin{
+    text-align: center;
+    height: 100px;
+    background-color: #fc4c02;
+}
+footer .footerMandarin .logotipoFooter{
+    width: 270px;
+    margin-top: 25px;
+}
