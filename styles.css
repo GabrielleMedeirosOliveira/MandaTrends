@@ -1,0 +1,66 @@
+header{
+    background-image: linear-gradient(to right, #e9492a, #e72357);
+    height: 250px;
+    position: relative;
+    display: flex;
+}
+header .textoLateral{
+    color: #ffff;
+    position: absolute;
+    margin-top: 45px;
+    margin-left: 78%;
+    margin-bottom: 10px;
+    text-align: right;
+    width: 400px;
+    height: 150px;    
+}
+header .textoLateral h1{
+    position: absolute;
+    margin-bottom: 15px;
+    font-family: "Overpass";
+}
+header .textoLateral .edicao{
+    margin-top: 137px;
+    margin-right: 28%;
+}
+header .logotipoMulher{
+    position: absolute;
+    margin-left: 50%;
+    margin-top: 131px;
+    width: 180px;
+}
+header .logotipoMandTrends{
+    position: absolute;
+    margin-left: 5%;
+    margin-top: 60px;
+    width: 250px;
+}
+header .vetorCircular{
+    position: absolute;
+    margin-top: 60px;
+    width: 155px;
+}
+header .vetorSetas{
+    position: absolute;
+    margin-left: 50%;
+    margin-top: 70px;
+    width: 60px;
+}
+header .vetorQuadrado{
+    position: absolute;
+    margin-left: 40%;
+    margin-top: 220px;
+    width: 45px;
+}
+header .vetorTriangulo{
+    position: absolute;
+    margin-left: 95%;
+    margin-top: 12px;
+    width: 36px;
+}
+header .vetorOndulado{
+    position: absolute;
+    margin-left: 87%;
+    margin-top: 213px;
+    width: 125px;
+}
